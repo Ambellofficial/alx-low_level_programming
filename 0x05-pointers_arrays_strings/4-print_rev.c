@@ -1,10 +1,13 @@
 #include "main.h"
+#include <stdio.h>
+
 /**
  * print_rev - prints the sting in reverse mode
  * @s: the string
  * Return: (0) success
  */
 void print_rev(char *s)
+
 {
 	int c = 0;
 
