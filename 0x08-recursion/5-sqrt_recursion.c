@@ -4,7 +4,7 @@
  * square root of a number
  * @a: input number
  * @b: iterator
- * Return: result of the square root
+ * Return: result of the square root or -1
  */
 int _sqrt_rec(int a, int b)
 {
