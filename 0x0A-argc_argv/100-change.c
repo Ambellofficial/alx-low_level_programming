@@ -25,7 +25,7 @@ int main(int argc, char **argv)
 		if (cent >= 10)
 			cent -= 10;
 		if (cent >= 5)
-			cents -= 5;
+			cent -= 5;
 		if (cent >= 2)
 			cent -= 2;
 		if (cent >= 1)
